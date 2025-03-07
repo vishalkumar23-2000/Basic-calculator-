@@ -59,6 +59,8 @@ else:
 if __name__ == "__main__":
     main()
 
+############# Three Variable #############
+
 # Function to add two numbers.
 def add(a,b,c):
 # (a,b) both are variables to store values.
